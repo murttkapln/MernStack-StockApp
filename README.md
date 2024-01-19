@@ -31,7 +31,7 @@
  2) run `pnpm run dev` or `yarn run dev` for open development stage
  3) Login as a Admin `admin@site.com` - `aA?123456`
    </td>
-    <td> <li> <a href="https://github.com/AliDurul" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/ali-durul/" target="_blank">Visit me on Linkedin</a> 
+    <td> <li> <a href="https://github.com/murttkapln" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/murat-kaplann/" target="_blank">Visit me on Linkedin</a> 
   </tr>
   <tr>
     <td colspan="3"><h3>What is this project about ?</h3> 
@@ -57,7 +57,7 @@ For administrative control, there's an admin panel that empowers administrators 
 
 [Live Link](https://stock-app-tfdl.onrender.com)
 
-![stockapp](https://github.com/AliDurul/FullStack-Stock-App/assets/80897590/26627259-cb60-47d9-bd50-8c64f7877254)
+<!-- ![stockapp](https://github.com/AliDurul/FullStack-Stock-App/assets/80897590/26627259-cb60-47d9-bd50-8c64f7877254) -->
 
 <div id="user-content-toc">
   <ul align="left">
