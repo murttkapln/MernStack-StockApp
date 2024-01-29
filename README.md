@@ -16,6 +16,9 @@
   <tr>
     <td> 
       <li> React  
+      <li> Node.js  
+      <li> Express.js  
+      <li> MongoDB  
       <li> Material UI
       <li> Tailwind CSS
       <li> Redux / Toolkit
